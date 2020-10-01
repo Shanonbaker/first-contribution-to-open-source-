@@ -2,11 +2,13 @@
 guide to contribute in open source 
 
 hactoberfest 2020
+is an open source festival between 1 to 30th october[every year]
 
+https://hacktoberfest.digitalocean.com/
 
 first make profile:-
 go on https://github.com/login
-your name ****
+your name[username] ****
 email ******
 make password ******
 
